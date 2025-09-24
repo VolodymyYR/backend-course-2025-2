@@ -1,4 +1,4 @@
-const { URL } = require('url');
+const { URL } = require('url');т
 
 // Константи для Варіанту 4
 const currency = 'EUR';
